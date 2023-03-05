@@ -1,9 +1,11 @@
 .yellow-one {
-    margin-left:auto;
-    margin-right: auto;
-    width: 500px;
-    height: 675px;
-    background-color: yellow;
+margin-left:auto;
+margin-right: auto;
+width: 500px;
+height: 675px;
+background-color: yellow;
+filter: blur(0.75px);
+border-radius:5px;
 }
 
 .yellow-two {
@@ -18,8 +20,29 @@ margin-right: auto;
 .blue {
 background-color: blue;
 height:300px;
-width:475px;
-max-width: 475px;
+width:490px;
+max-width: 490px;
 margin-left:auto;
 margin-right: auto;
+border-radius:-3px;
 }
+
+.footer p{
+    font-size: 0.75rem;
+    text-align: center;
+    font-family: Georgia, Calibri;
+    max-width: 400px;
+    min-width: 300px;
+    width: 60vw;
+    margin: 0.5rem auto;
+  }
+  
+  .footer h3{
+    font-size: 1rem;
+    text-align: center;
+    font-family: Georgia, Calibri;
+    max-width: 400px;
+    min-width: 300px;
+    width: 60vw;
+    margin: 0.5rem auto;
+  }
