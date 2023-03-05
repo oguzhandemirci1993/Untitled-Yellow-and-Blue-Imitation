@@ -1,1 +1,2 @@
 # Untitled-Yellow-and-Blue-Imitation
+This web page has been developed purely for exercise purposes with a knowledge that has been learned from FreeCodeCamp's Responsive Web Design Certification Course and inspired by the Rothko Painting web page at FreeCodeCamp. Different type of Rothko Painting has been imitated in this project. How this project has been developed can be observed by following the commits. Thanks for visiting.
