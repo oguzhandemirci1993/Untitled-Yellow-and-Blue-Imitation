@@ -8,7 +8,7 @@ filter: blur(0.75px);
 border-radius:5px;
 }
 
-.yellow-two {
+.yellow-two { /*Second yellow element will push blue element down.*/
 background-color: yellow;
 height:350px;
 width:475px;
